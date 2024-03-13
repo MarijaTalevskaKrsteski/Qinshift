@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework04\\Homework03-Class05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3544C73F-97C5-4B76-80C6-D0C8999AA7BD}|Task1\\Task1.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework04\\homework03-class05\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3544C73F-97C5-4B76-80C6-D0C8999AA7BD}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF08ECA-EF38-4E9D-AA2D-70439944011F}|Task2\\Task2.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework04\\homework03-class05\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF08ECA-EF38-4E9D-AA2D-70439944011F}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF08ECA-EF38-4E9D-AA2D-70439944011F}|Task2\\Task2.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework04\\homework03-class05\\task2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF08ECA-EF38-4E9D-AA2D-70439944011F}|Task2\\Task2.csproj|solutionrelative:task2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework04\\Homework03-Class05\\Task2\\Dog.cs",
+              "RelativeDocumentMoniker": "Task2\\Dog.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework04\\Homework03-Class05\\Task2\\Dog.cs",
+              "RelativeToolTip": "Task2\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:47:27.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework04\\Homework03-Class05\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework04\\Homework03-Class05\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:29:32.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework04\\Homework03-Class05\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework04\\Homework03-Class05\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:28:25.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

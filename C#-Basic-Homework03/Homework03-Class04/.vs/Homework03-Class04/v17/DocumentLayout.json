@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC32C97-4FB6-4E48-BEB1-91014C74DE91}|Bonus\\Bonus.csproj|c:\\users\\talev\\desktop\\sedc\\qinshift-repo\\qinshift\\c#-basic-homework03\\homework03-class04\\bonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC32C97-4FB6-4E48-BEB1-91014C74DE91}|Bonus\\Bonus.csproj|solutionrelative:bonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874A8183-D2F4-4309-84A9-D8E995A4B3CA}|Task2\\Task2.csproj|c:\\users\\talev\\desktop\\sedc\\qinshift-repo\\qinshift\\c#-basic-homework03\\homework03-class04\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874A8183-D2F4-4309-84A9-D8E995A4B3CA}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9D2E61-253A-44F9-95B0-EC34253FD7C2}|Task3\\Task3.csproj|c:\\users\\talev\\desktop\\sedc\\qinshift-repo\\qinshift\\c#-basic-homework03\\homework03-class04\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9D2E61-253A-44F9-95B0-EC34253FD7C2}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5B0EC5-2C9F-49B5-BF8F-0B3962B90632}|Task1\\Task1.csproj|c:\\users\\talev\\desktop\\sedc\\qinshift-repo\\qinshift\\c#-basic-homework03\\homework03-class04\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5B0EC5-2C9F-49B5-BF8F-0B3962B90632}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Bonus\\Program.cs",
+              "RelativeDocumentMoniker": "Bonus\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Bonus\\Program.cs",
+              "RelativeToolTip": "Bonus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:21:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:21:48.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:04:23.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\Qinshift-repo\\Qinshift\\C#-Basic-Homework03\\Homework03-Class04\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:17:53.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

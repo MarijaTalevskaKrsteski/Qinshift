@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework06\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework06\\code\\task3\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|solutionrelative:task3\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework06\\code\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework06\\code\\task3\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|solutionrelative:task3\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework06\\code\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework06\\code\\task3\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AC3F8F-22BD-498D-AD96-269AC69B62C5}|Task3\\Task3.csproj|solutionrelative:task3\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4B48804-96B7-4663-B178-B1BB4E8F1672}|Task2\\Task2.csproj|c:\\users\\talev\\desktop\\sedc\\5-c#-basic-domasni\\c#-basic-homework06\\code\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GenderEnum.cs",
               "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework06\\Code\\Task3\\Enums\\GenderEnum.cs",
               "RelativeDocumentMoniker": "Task3\\Enums\\GenderEnum.cs",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework06\\Code\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
               "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\5-C#-Basic-Domasni\\C#-Basic-Homework06\\Code\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAA3AAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T21:39:30.295Z",
               "EditorCaption": ""
@@ -81,8 +81,7 @@
               "RelativeToolTip": "Task2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T21:10:17.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T21:10:17.116Z"
             },
             {
               "$type": "Document",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "Task1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T09:49:42.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T09:49:42.754Z"
             }
           ]
         }

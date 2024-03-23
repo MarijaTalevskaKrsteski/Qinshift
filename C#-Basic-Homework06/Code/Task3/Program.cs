@@ -39,6 +39,17 @@ foreach (Animal animal in allBrownAndMaleAnimals)
     Console.WriteLine(animal.Name);
 }
 
+//Console.WriteLine("The first animal whose name is longer than 10 characters:");
+//Animal firstAnimalWitnNameLongerThanTen = listOfAnimals.First(x => x.Name.Length > 10);
+//Console.WriteLine(firstAnimalWitnNameLongerThanTen.Name);
+
 Console.WriteLine("The first animal whose name is longer than 10 characters:");
-Animal firstAnimalWitnNameLongerThanTen = listOfAnimals.First(x => x.Name.Length > 10);
-Console.WriteLine(firstAnimalWitnNameLongerThanTen.Name);
+Animal firstAnimalWitnNameLongerThanTen = listOfAnimals.FirstOrDefault(x => x.Name.Length > 10);
+if(firstAnimalWitnNameLongerThanTen != null)
+{
+    Console.WriteLine(firstAnimalWitnNameLongerThanTen.Name);
+}
+else
+{
+    Console.WriteLine("There is no Animal with name longer than 10 chars.");
+}

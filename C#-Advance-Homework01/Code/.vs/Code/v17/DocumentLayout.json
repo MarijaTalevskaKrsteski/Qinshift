@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework01\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408ACB87-2C23-4257-9AB7-C405E619FEBA}|GameApp\\GameApp.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework01\\code\\gameapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408ACB87-2C23-4257-9AB7-C405E619FEBA}|GameApp\\GameApp.csproj|solutionrelative:gameapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408ACB87-2C23-4257-9AB7-C405E619FEBA}|GameApp\\GameApp.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework01\\code\\gameapp\\enums\\choiseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408ACB87-2C23-4257-9AB7-C405E619FEBA}|GameApp\\GameApp.csproj|solutionrelative:gameapp\\enums\\choiseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChoiseEnum.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework01\\Code\\GameApp\\Enums\\ChoiseEnum.cs",
+              "RelativeDocumentMoniker": "GameApp\\Enums\\ChoiseEnum.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework01\\Code\\GameApp\\Enums\\ChoiseEnum.cs",
+              "RelativeToolTip": "GameApp\\Enums\\ChoiseEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:39:15.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework01\\Code\\GameApp\\Program.cs",
+              "RelativeDocumentMoniker": "GameApp\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework01\\Code\\GameApp\\Program.cs",
+              "RelativeToolTip": "GameApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:02:11.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

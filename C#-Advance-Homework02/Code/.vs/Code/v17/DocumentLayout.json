@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework02\\code\\homework 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework02\\code\\homework 1\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework02\\code\\homework 1\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework02\\code\\homework 1\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework02\\code\\homework 1\\interfaces\\icat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\interfaces\\icat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework02\\code\\homework 1\\interfaces\\idog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\interfaces\\idog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advance-homework02\\code\\homework 1\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8915850-3BB9-4FE0-8D92-A86688344F01}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICat.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Interfaces\\ICat.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Interfaces\\ICat.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Interfaces\\ICat.cs",
+              "RelativeToolTip": "Homework 1\\Interfaces\\ICat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:05:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDog.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Interfaces\\IDog.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Interfaces\\IDog.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Interfaces\\IDog.cs",
+              "RelativeToolTip": "Homework 1\\Interfaces\\IDog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:05:37.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "Homework 1\\Interfaces\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:05:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Models\\Dog.cs",
+              "RelativeToolTip": "Homework 1\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:20:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Models\\Cat.cs",
+              "RelativeToolTip": "Homework 1\\Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:20:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Models\\Animal.cs",
+              "RelativeToolTip": "Homework 1\\Models\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:04:57.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Program.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advance-Homework02\\Code\\Homework 1\\Program.cs",
+              "RelativeToolTip": "Homework 1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:31:38.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

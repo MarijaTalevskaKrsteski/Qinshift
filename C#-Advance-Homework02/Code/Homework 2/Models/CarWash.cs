@@ -1,22 +1,18 @@
 ﻿using Homework_2.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Homework_2.Models
 {
     public class CarWash : ICarWash
     {
-        public void WashCar()
+        public CarWash() { }
+
+        public void WashCar(Car car)
         {
-            Console.WriteLine("We are washing the car.");
+            Console.WriteLine("You are in the car wash. We are washing the car of type " + car.Type + ".");
         }
 
-        public void WashTrailer()
+        public void WashTrailer(Truck truck)
         {
-            Console.WriteLine("We are washing the trailer.");
+            Console.WriteLine($"You are in the car wash. We are washing the trailer {truck.Wheels} wheels.");
         }
     }
 }

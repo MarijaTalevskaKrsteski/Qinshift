@@ -1,8 +1,9 @@
-﻿namespace Homework_2.Interfaces
+﻿using Homework_2.Models;
+namespace Homework_2.Interfaces
 {
     public interface ICarWash
     {
-        void WashCar();
-        void WashTrailer();
+        void WashCar(Car car);
+        void WashTrailer(Truck truck);
     }
 }

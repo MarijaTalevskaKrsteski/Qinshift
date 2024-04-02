@@ -1,37 +1,33 @@
 ﻿using Homework_2.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Homework_2.Models
 {
     public class CarCenter : ICarWash, IGasPump, IRepairService
     {
-        public void CheckVehicle()
+        public CarCenter() { }
+
+        public void CheckVehicle(Vehicle vehicle)
         {
-            Console.WriteLine("In the Car Center, we are checking the vehicle.");
+            Console.WriteLine($"In the Car Center, we are checking the {vehicle.Type} vehicle with {vehicle.Color} color that has {vehicle.Wheels} wheels.");
+        }
+                
+        public void FixVehicle(Vehicle vehicle)
+        {
+            Console.WriteLine($"In the Car Center, we are fixing the {vehicle.Type} vehicle with {vehicle.Color} color that has {vehicle.Wheels} wheels.");
         }
 
-        public void FixVehicle()
+        public void PumpGas(Vehicle vehicle)
         {
-            Console.WriteLine("In the Car Center, we are fixing the vehicle.");
+            Console.WriteLine("In the Car Center, we are pumping gas for " + vehicle.Type + ".");
         }
 
-        public void PumpGas()
+        public void WashCar(Car car)
         {
-            Console.WriteLine("In the Car Center, we are pumping gas.");
+            Console.WriteLine("In the Car Center, we are washing the car " + car.Type + ".");
         }
 
-        public void WashCar()
+        public void WashTrailer(Truck truck)
         {
-            Console.WriteLine("In the Car Center, we are washing the car.");
-        }
-
-        public void WashTrailer()
-        {
-            Console.WriteLine("In the Car Center, we are washing the trailer.");
+            Console.WriteLine("In the Car Center, we are washing the trailer " + truck.Type + ".");
         }
     }
 }

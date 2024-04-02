@@ -1,17 +1,13 @@
 ﻿using Homework_2.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Homework_2.Models
 {
     public class GasPump : IGasPump
     {
-        public void PumpGas()
+        public GasPump() { }
+
+        public void PumpGas(Vehicle vehicle)
         {
-            Console.WriteLine("We are pumping gas");
+            Console.WriteLine($"You are at the gas station. We are pumping gas for {vehicle.Type}.");
         }
     }
 }

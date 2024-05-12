@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A774CB-B645-4CCD-ABDA-C4A96B2483C8}|Homework04\\Homework04.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advanced-homework04\\code\\homework04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A774CB-B645-4CCD-ABDA-C4A96B2483C8}|Homework04\\Homework04.csproj|solutionrelative:homework04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28E30E5-2E08-4D55-9963-92C54A8490EE}|Homework04.Domain\\Homework04.Domain.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advanced-homework04\\code\\homework04.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28E30E5-2E08-4D55-9963-92C54A8490EE}|Homework04.Domain\\Homework04.Domain.csproj|solutionrelative:homework04.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28E30E5-2E08-4D55-9963-92C54A8490EE}|Homework04.Domain\\Homework04.Domain.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advanced-homework04\\code\\homework04.domain\\models\\carsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28E30E5-2E08-4D55-9963-92C54A8490EE}|Homework04.Domain\\Homework04.Domain.csproj|solutionrelative:homework04.domain\\models\\carsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A774CB-B645-4CCD-ABDA-C4A96B2483C8}|Homework04\\Homework04.csproj|c:\\users\\talev\\desktop\\sedc\\6-c#-advanced-domasni\\c#-advanced-homework04\\code\\homework04\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A774CB-B645-4CCD-ABDA-C4A96B2483C8}|Homework04\\Homework04.csproj|solutionrelative:homework04\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListHelper.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04\\ListHelper.cs",
+              "RelativeDocumentMoniker": "Homework04\\ListHelper.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04\\ListHelper.cs",
+              "RelativeToolTip": "Homework04\\ListHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:03:33.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsData.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04.Domain\\Models\\CarsData.cs",
+              "RelativeDocumentMoniker": "Homework04.Domain\\Models\\CarsData.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04.Domain\\Models\\CarsData.cs",
+              "RelativeToolTip": "Homework04.Domain\\Models\\CarsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:01:01.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04.Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Homework04.Domain\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04.Domain\\Models\\Car.cs",
+              "RelativeToolTip": "Homework04.Domain\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:00:19.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04\\Program.cs",
+              "RelativeDocumentMoniker": "Homework04\\Program.cs",
+              "ToolTip": "C:\\Users\\talev\\Desktop\\SEDC\\6-C#-Advanced-Domasni\\C#-Advanced-Homework04\\Code\\Homework04\\Program.cs",
+              "RelativeToolTip": "Homework04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:52:00.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
